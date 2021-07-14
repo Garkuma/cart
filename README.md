@@ -1,2 +1,3 @@
-# cart
-Grocery cart that allows for restocking
+# Strapi application
+
+A quick description of your strapi application
